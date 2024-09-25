@@ -29,4 +29,5 @@ int main() {
 
     delete[] arr1;
     delete[] arr2;
+
 }
